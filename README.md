@@ -2,6 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML project
+- I rite article on https://thetechblog.hashnode.dev/
+- view my page https://direct.me/samridhiii23
 - 📫 How to reach me bhandari.samridhi23@gmail.com
 
 <!---
