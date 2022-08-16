@@ -13,8 +13,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SAMMMYYY233&show_icons=true&line_height=21&theme=highcontrast" alt="my github stats" width="480"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMMMYYY233&layout=compact&theme=highcontrast" alt="languages" height="165">
 </p>
-### 📈GitHub Demo
-https://github-readme-stats.vercel.app/api/pin/?username=SAMMMYYY233&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 SAMMMYYY233/SAMMMYYY233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
