@@ -5,6 +5,17 @@
 - I rite article on https://thetechblog.hashnode.dev/
 - view my page https://direct.me/samridhiii23
 - 📫 How to reach me bhandari.samridhi23@gmail.com
+.
+.
+.
+### 📈GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SAMMMYYY233&show_icons=true&line_height=21&theme=highcontrast" alt="my github stats" width="480"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMMMYYY233&layout=compact&theme=highcontrast" alt="languages" height="165">
+</p>
+<p align="center">
+ <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
+</p>
 
 <!---
 SAMMMYYY233/SAMMMYYY233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
