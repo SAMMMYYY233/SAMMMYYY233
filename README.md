@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML project
 - 💞️I write article on https://thetechblog.hashnode.dev/
-- 👀view my page https://direct.me/samridhiii23
 - 👀view my builds on commudle https://www.commudle.com/builds/criminal-activity-detection-using-machine-learning-and-ai
 - 📫 How to reach me bhandari.samridhi23@gmail.com
 .
